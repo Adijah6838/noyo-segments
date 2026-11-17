@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+noyo.db
+test.db
+.pytest_cache/
+*.pyc
